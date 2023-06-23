@@ -1,6 +1,6 @@
 # Warning!!! Under construction
 
-## 👋 Hey everyone, I'm Prasanna A AKA the Hackathon Queen®™ 👋
+## 👋 Hey everyone, I'm Prasanna A 👋
 <!--
 **MishManners/MishManners** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile -->
 
