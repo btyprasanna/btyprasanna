@@ -1,44 +1,22 @@
 # Warning!!! Under construction
 
 ## 👋 Hey everyone, I'm Prasanna A 👋
-<!--
-**MishManners/MishManners** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile -->
 
 <!-- <img src=""> this is another way you can add in images and allows you to scale them -->
 ![fotor-ai-2023062415176](https://github.com/btyprasanna/btyprasanna/assets/106366271/973f7211-7ce1-43cd-9545-2eb2a06adebf)
 
-Everyday, I get to create awesome experiences and engage with the vibrant GitHub developer community. I've run many hackathons, and am an accomplished MC, speaker, and facilitator :microphone:. You'll often catch me at an event, speaking on stage, or on a live stream!
+Everyday, I have the privilege of working in a specialized robotics lab at my college, where I enthusiastically explore and manipulate a wide range of electrical and electronic components. Not only do I engage with my peers, friends, and juniors, sharing my knowledge and guiding them in their projects, but I also get to witness the creation of awe-inspiring experiences. It's an exhilarating journey where I constantly collaborate with the vibrant automation and robotics community, akin to being an accomplished participant in events and hackathon. You can often find me immersed in the world of automation and robotics.
 
 <!-- ![2021-08-10 20-43-14 2021-08-10 20_45_32](https://user-images.githubusercontent.com/36594527/131284497-24a6db5f-d86d-4548-81cc-fa6aa186892c.gif) -->
 
 ### Find me all around the web:
 
 <p align="left">
-<a href="http://twitter.com/MishManners" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/twitter%20(2).png" title = "Twitter" alt="" height="30" /></a>
-<a href="http://linkedin.com/in/mishmanners" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/transparent-Linkedin-logo-icon.png" alt="" height="30" /></a>
-<a href="http://instagram.com/mishmanners" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/instagram.png" alt="" height="30" /></a>
-<a href="http://twitch.tv/MishManners" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/twitch.png" alt="" height="30" /></a>
+<a href="http://linkedin.com/in/btyprasanna" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/transparent-Linkedin-logo-icon.png" alt="" height="30" /></a>
+<a href="http://instagram.com/brutality_prasanna/" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/instagram.png" alt="" height="30" /></a>
 <a href="http://youtube.com/c/MishManners" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/youtube.png" alt="" height="30" /></a>
-<a href="http://mishmanners.com" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/chrome.png" alt="" height="30" /></a>
-<a href="https://hackathongoddess.wordpress.com/" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/chrome.png" alt="" height="30" /></a>
-<a href="https://mishmanners.info/" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/chrome.png" alt="" height="30" /></a>
-<a href="https://dev.to/mishmanners" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/devto.png" alt="" height="30" /></a>
-</p>
 
-<!-- TODO add in the rest of the URLs -->
-### I'm a gamer too, so you might find me on:
-<a href="https://discordapp.com/invite/f4NFzFt" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/Game%20Icons/discord.png" height="30" /></a>
-<a href=" " target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/Game%20Icons/ESO.png" height="30" /></a> 
-<a href=" " target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/Game%20Icons/Epic.png" height="30" /></a> 
-<a href=" " target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/Game%20Icons/LoL.png" height="30" /></a>
-<a href=" " target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/Game%20Icons/Battlenet.png" height="30" /></a>
-<a href=" " target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/Game%20Icons/Xbox.png" height="30" /></a> 
-<a href=" " target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/Game%20Icons/PS.png" height="30" /></a> 
-<a href="" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/Game%20Icons/PoGo.png" height="30" /></a> 
-<a href="" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/Game%20Icons/Shadowverse.png" height="30" /></a> 
-<a href="" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/Game%20Icons/Steam.png" height="30" /></a>
-<a href="" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/Game%20Icons/Switch.png" height="30" /></a>
-<a href="" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/Game%20Icons/arena.png" height="30" /></a>
+</p>
 
 ### I'm listening to:
 
