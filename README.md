@@ -14,7 +14,7 @@ Everyday, I have the privilege of working in a specialized robotics lab at my co
 <p align="left">
 <a href="http://linkedin.com/in/btyprasanna" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/transparent-Linkedin-logo-icon.png" alt="" height="30" /></a>
 <a href="http://instagram.com/brutality_prasanna/" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/instagram.png" alt="" height="30" /></a>
-<a href="http://youtube.com/c/MishManners" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/youtube.png" alt="" height="30" /></a>
+<!--<a href="http://youtube.com/c/MishManners" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/youtube.png" alt="" height="30" /></a>
 
 </p>
 
@@ -48,9 +48,9 @@ Everyday, I have the privilege of working in a specialized robotics lab at my co
 - [Buy even more merchandise](https://www.redbubble.com/people/MishManners/shop) 🛍️
 - [Sessionize Profile](https://sessionize.com/mishmanners/)
 
-<img align="right" width="150" height="150" src="https://github.com/MishManners/MishManners/blob/master/My-OctocatsShortest.gif"></a> -->
+<img align="right" width="150" height="150" src="https://github.com/MishManners/MishManners/blob/master/My-OctocatsShortest.gif"></a>
 ### Some Fun Facts about me:
-I've founded a few companies in the past :zap: I love playing video games and you'll find me playing games on my [Twitch Channel](http://twitch.tv/MishManners) and live coding! I'm super into sports, including lots of outdoor adventures like hiking, snowboarding, and wakeboarding. You might run into me at an event, so make sure you follow my socials for all the updates. For a super quick live response, jump into my Twitch chat during a live stream. Or DM me on Instagram or Twitter.
+I've founded a few companies in the past :zap: I love playing video games and you'll find me playing games on my [Twitch Channel](http://twitch.tv/MishManners) and live coding! I'm super into sports, including lots of outdoor adventures like hiking, snowboarding, and wakeboarding. You might run into me at an event, so make sure you follow my socials for all the updates. For a super quick live response, jump into my Twitch chat during a live stream. Or DM me on Instagram or Twitter. -->
 
 ## GitHub Stats
 
