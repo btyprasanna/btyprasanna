@@ -1,6 +1,9 @@
 # Warning!!! Under construction
 
-## 👋 Hey everyone, I'm Prasanna A 👋
+## <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Hey everyone, I'm Prasanna A <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=500&pause=1000&color=B05BF7&width=525&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Mechatronics+and+Automation+Engineer" alt="Typing SVG" />
+</a>
 
 <!-- <img src=""> this is another way you can add in images and allows you to scale them -->
 ![fotor-ai-2023062415176](https://github.com/btyprasanna/btyprasanna/assets/106366271/973f7211-7ce1-43cd-9545-2eb2a06adebf)
@@ -14,9 +17,24 @@ Everyday, I have the privilege of working in a specialized robotics lab at my co
 <p align="left">
 <a href="http://linkedin.com/in/btyprasanna" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/transparent-Linkedin-logo-icon.png" alt="" height="30" /></a>
 <a href="http://instagram.com/brutality_prasanna/" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/instagram.png" alt="" height="30" /></a>
-<!--<a href="http://youtube.com/c/MishManners" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/youtube.png" alt="" height="30" /></a>
+<!--<a href="http://youtube.com/c/MishManners" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/youtube.png" alt="" height="30" /></a> -->
+</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+
+## Projects
+
+<p align="left">
+<a href="https://github.com/btyprasanna/Automated-Storage-and-Retrieval-System-using-Fanuc-6-axis-Manipulator">
+
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=btyprasanna&repo=Automated-Storage-and-Retrieval-System-using-Fanuc-6-axis-Manipulator&theme=tokyonight" /></a>
 
 </p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!-- ### I'm listening to:
 
@@ -67,6 +85,18 @@ As for the charts 🥧, if you like my A++ stats, then you can make your own by 
 <img src="https://github-readme-stats.vercel.app/api?username=btyprasanna&show_icons=true&include_all_commits=true&count_private=true&theme=jolly&layout=compact" alt="GitHub Stats for btyprasanna" width="700">
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=btyprasanna&theme=jolly" width="700">
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+
+
+
+## 🏆GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=btyprasanna&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
+
+
+
 <!--
 ```ascii 
           My 2022 GitHub Skyline
@@ -104,6 +134,10 @@ As for the charts 🥧, if you like my A++ stats, then you can make your own by 
 ```
 --!>
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=mishmanners&theme=radical)](https://github.com/ryo-ma/github-profile-trophy) ONLY if I want to show the trophy things here -->
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+
 
 ### Watch my contribution graph get eaten by the snake 🐍
 
