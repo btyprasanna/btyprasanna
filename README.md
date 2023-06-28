@@ -30,7 +30,7 @@ Everyday, I have the privilege of working in a specialized robotics lab at my co
 
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=btyprasanna&repo=Automated-Storage-and-Retrieval-System-using-Fanuc-6-axis-Manipulator&theme=tokyonight" /></a>
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=btyprasanna&repo=Automated-Storage-and-Retrieval-System-using-Fanuc-6-axis-Manipulator&theme=tokyonight" /></a>
 
 </p>
 
