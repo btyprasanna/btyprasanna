@@ -158,3 +158,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+## ❤ Views and Followers
+
+<p align='center'> <img src="https://komarev.com/ghpvc/?username=btyprasanna&label=Profile%20views&color=blueviolet&style=plastic" width="160px" alt="views" /> </p>
