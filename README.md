@@ -139,12 +139,12 @@ As for the charts 🥧, if you like my A++ stats, then you can make your own by 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-
-
-## Watch my contribution graph get eaten by the snake 🐍
-
+<p align="center">
+<img src="https://i.imgur.com/x1KbuCq.gif" width="500">
+  
 <!-- platane/snk works, it just puts it on a new branch -->
-![snake gif](https://github.com/btyprasanna/btyprasanna/blob/output/github-contribution-grid-snake.svg)
+<img src="https://github.com/btyprasanna/btyprasanna/blob/output/github-contribution-grid-snake.svg" width="100%">
+
 
 <!--
 **btyprasanna/btyprasanna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -161,7 +161,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## ❤ Views and Followers
+## ❤ Views
 
 <p align='center'> <img src="https://komarev.com/ghpvc/?username=btyprasanna&label=Profile%20views&color=blueviolet&style=plastic" width="160px" alt="views" /> </p>
