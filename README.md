@@ -26,15 +26,34 @@ Everyday, I have the privilege of working in a specialized robotics lab at my co
 
 ## Projects
 
-<p align="left">
-<a href="https://github.com/btyprasanna/Automated-Storage-and-Retrieval-System-using-Fanuc-6-axis-Manipulator">
+<div>
+  <p>
+    <a href="https://github.com/Bhargavi-hash/HotelFranchiseDBMS.git">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bhargavi-hash&repo=HotelFranchiseDBMS" alt="GitHub Stats" />
+    </a>
+    <a href="https://github.com/Bhargavi-hash/Linux-Shell-Implementation.git">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bhargavi-hash&repo=Linux-Shell-Implementation" alt="GitHub Stats" />
+    </a>
+  </p>
+</div>
+
+
+<div>
+<p>
+<a href="https://github.com/btyprasanna/Automated-Storage-and-Retrieval-System-using-6-axis-FANUC-Robotic-Manipulator">
 
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
 
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=btyprasanna&repo=Automated-Storage-and-Retrieval-System-using-Fanuc-6-axis-Manipulator&theme=tokyonight"/>
+<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=btyprasanna&repo=Automated-Storage-and-Retrieval-System-using-6-axis-FANUC-Robotic-Manipulator&theme=tokyonight"/>
 </a>
+<a href="https://github.com/btyprasanna/Additive-Manufacturing-using-6-axis-FANUC-Robotic-Manipulator">
 
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+
+<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=btyprasanna&repo=Additive-Manufacturing-using-6-axis-FANUC-Robotic-Manipulator&theme=tokyonight"/>
+</a>
 </p>
+</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
