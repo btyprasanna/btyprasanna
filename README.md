@@ -1,4 +1,3 @@
-
 ## <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Hey everyone, I'm Prasanna A <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=500&pause=1000&color=B05BF7&width=525&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Mechatronics+and+Automation+Engineer" alt="Typing SVG" />
@@ -25,18 +24,6 @@ Everyday, I have the privilege of working in a specialized robotics lab at my co
 
 
 ## Projects
-
-<div>
-  <p>
-    <a href="https://github.com/Bhargavi-hash/HotelFranchiseDBMS.git">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bhargavi-hash&repo=HotelFranchiseDBMS" alt="GitHub Stats" />
-    </a>
-    <a href="https://github.com/Bhargavi-hash/Linux-Shell-Implementation.git">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bhargavi-hash&repo=Linux-Shell-Implementation" alt="GitHub Stats" />
-    </a>
-  </p>
-</div>
-
 
 <div>
 <p>
