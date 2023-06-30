@@ -7,7 +7,7 @@
 <img align="left" width="550" height="407" src="https://github.com/btyprasanna/btyprasanna/assets/106366271/973f7211-7ce1-43cd-9545-2eb2a06adebf"></a>
 <!-- <img src=""> this is another way you can add in images and allows you to scale them -->
 
-<p align="justify"> Your Text 
+<p align="justify">
 Everyday, I have the privilege of working in a specialized robotics lab at my college, where I enthusiastically explore and manipulate a wide range of electrical and electronic components. Not only do I engage with my peers, friends, and juniors, sharing my knowledge and guiding them in their projects, but I also get to witness the creation of awe-inspiring experiences. It's an exhilarating journey where I constantly collaborate with the vibrant automation and robotics community, akin to being an accomplished participant in events and hackathon. You can often find me immersed in the world of automation and robotics.
 </p>
 
