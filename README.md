@@ -38,13 +38,16 @@ Everyday, I have the privilege of working in a specialized robotics lab at my co
 
 As for the charts 🥧, if you like my A++ stats, then you can make your own by checking out the [GitHub Readme Stats Repo](https://github.com/anuraghazra/github-readme-stats) and [🔥 GitHub Readme Streak Stats](https://github-readme-streak-stats.herokuapp.com/demo/). -->
 
-<img src="https://github-readme-stats.vercel.app/api?username=btyprasanna&show_icons=true&include_all_commits=true&count_private=true&theme=jolly&layout=compact" alt="GitHub Stats for btyprasanna" width="700">
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=btyprasanna&show_icons=true&include_all_commits=true&count_private=true&theme=jolly&layout=compact" alt="GitHub Stats for btyprasanna" width="700" /> </p>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=btyprasanna&theme=jolly" width="700">
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=btyprasanna&theme=jolly" width="700" /> </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🏆GitHub Trophies
+
 
 ![](https://github-profile-trophy.vercel.app/?username=btyprasanna&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
@@ -52,7 +55,7 @@ As for the charts 🥧, if you like my A++ stats, then you can make your own by 
 
 <p align="center">
 <img src="https://i.imgur.com/x1KbuCq.gif" width="500">
-<img src="https://github.com/btyprasanna/btyprasanna/blob/output/github-contribution-grid-snake.svg" width="100%">
+<img src="https://github.com/btyprasanna/btyprasanna/blob/output/github-contribution-grid-snake.svg" width="100%" /> </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
