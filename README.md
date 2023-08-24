@@ -50,12 +50,12 @@ As for the charts 🥧, if you like my A++ stats, then you can make your own by 
 
 
 ![](https://github-profile-trophy.vercel.app/?username=btyprasanna&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
-
+<!--
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <p align="center">
 <img src="https://i.imgur.com/x1KbuCq.gif" width="500">
-<img src="https://github.com/btyprasanna/btyprasanna/blob/output/github-contribution-grid-snake.svg" width="100%" /> </p>
+<img src="https://github.com/btyprasanna/btyprasanna/blob/output/github-contribution-grid-snake.svg" width="100%" /> </p> -->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
